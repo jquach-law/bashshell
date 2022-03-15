@@ -37,6 +37,8 @@ smallsh.c
  4564 pts/0    00:00:03 bash
  4867 pts/0    00:01:32 smallsh
  4927 pts/0    00:00:00 ps
+: exit
+$
  
  
  *Note: Some executions may differ
